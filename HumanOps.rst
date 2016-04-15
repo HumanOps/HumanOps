@@ -1,5 +1,9 @@
-# HumanOps
-## What is HumanOps?
+HumanOps
+========
+
+What is HumanOps?
++++++++++++++++++
+
 HumanOps is a set of principles which focus on the human aspects of running infrastructure. 
 
 It deliberately highlights the importance of the teams running systems, not just the systems themselves. 
@@ -8,7 +12,9 @@ The health of your infrastructure is not just about hardware, software, automati
 
 The goal of HumanOps is to improve and maintain the good health of your team: easing communication, reducing fatigue and reducing stress.
 
-## HumanOps principles
+HumanOps principles
++++++++++++++++++++
+
 1. Humans are part of the system. Well architected, modern infrastructure is as automated and self-managing as possible, but it still requires human operation for maintenance, upgrades and incident response. As such, the human operations should be considered a part of the system just like any other so that proper consideration can be given to their role.
 
 2. Humans impact systems. The interaction between human operators and the system goes both ways - the actions of the system can impact the wellbeing of the human operators just as the actions of the operators can impact the reliable operations of the system. As such, equal importance should be placed on the wellbeing of the team as well as the system they are managing.
@@ -19,15 +25,20 @@ The goal of HumanOps is to improve and maintain the good health of your team: ea
 
 5. Escalate to humans as a last resort. Dealing with incidents rapidly and consistently without error is best suited to machines. As such, the system should take actions where it can to resolve problems by itself, and reserve involving the human operations for the edge case as “escalations”, rather than deferring to the human operations team by default.
 
-## The metrics of HumanOps
+The metrics of HumanOps
++++++++++++++++++++++++
+
 How do we know if we are being successful in applying HumanOps principles? Many of the benefits will be qualitative e.g. better work/life balance, but others can be more quantitative:
 
-### Human metrics
+Human metrics
+-------------
+
 * Better sleep (achieving sleep length targets, zero interruptions/wakeups)
 * "Reasonable" working hours (not needing to work late, not getting called at weekends)
 * Reduced stress (blood pressure, reduced anxiety)
-### System metrics
+
+System metrics
+--------------
 * Reduction in outages/incidents with root cause analysis or elements of human error
 * Reduction in time to resolution (due to improved response process & incident handling)
 * Reduction in alerts/incidents requiring human response
-
