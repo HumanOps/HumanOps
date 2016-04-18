@@ -7,7 +7,7 @@ The HumanOps Mantra
 5. The wellbeing of human operators will impact the reliability of systems.
 6. Alert Fatigue == Human Fatigue
 7. Automate as much as possible, escalate to a human as a last resort.
-8. Document everyhing. Train everyone. Save time.
+8. Document everything. Train everyone. Save time.
 9. Kill the shame game.
 10. Human issues count as system issues.
 11. Human health impacts business health.
