@@ -15,15 +15,15 @@ The goal of HumanOps is to improve and maintain the good health of your team: ea
 HumanOps principles
 +++++++++++++++++++
 
-1. Humans are part of the system. Well architected, modern infrastructure is as automated and self-managing as possible, but it still requires human operation for maintenance, upgrades and incident response. As such, the human operations should be considered a part of the system just like any other so that proper consideration can be given to their role.
+1. **Humans are part of the system.** Well architected, modern infrastructure is as automated and self-managing as possible, but it still requires human operation for maintenance, upgrades and incident response. As such, the human operations should be considered a part of the system just like any other so that proper consideration can be given to their role.
 
-2. Humans impact systems. The interaction between human operators and the system goes both ways - the actions of the system can impact the wellbeing of the human operators just as the actions of the operators can impact the reliable operations of the system. As such, equal importance should be placed on the wellbeing of the team as well as the system they are managing.
+2. **Humans impact systems.** The interaction between human operators and the system goes both ways - the actions of the system can impact the wellbeing of the human operators just as the actions of the operators can impact the reliable operations of the system. As such, equal importance should be placed on the wellbeing of the team as well as the system they are managing.
 
-3. Humans impact business. Just as there is a direct business impact from downtime caused by unreliable systems, there is a direct business impact from an unhealthy team working on those systems.
+3. **Humans impact business.** Just as there is a direct business impact from downtime caused by unreliable systems, there is a direct business impact from an unhealthy team working on those systems.
 
-4. Human issues count as system issues. Systems issues e.g. error rates, uptime SLA % and other technical points tend to get more focus when prioritising issues. However, although there may be less of a direct link, the poor health of the operations team can have just as much impact on the system. As such, the impact of issues on the operations team e.g. alerts out of hours, frequency of manual interventions should receive as equal weight as systems issues.
+4. **Human issues count as system issues.** Systems issues e.g. error rates, uptime SLA % and other technical points tend to get more focus when prioritising issues. However, although there may be less of a direct link, the poor health of the operations team can have just as much impact on the system. As such, the impact of issues on the operations team e.g. alerts out of hours, frequency of manual interventions should receive as equal weight as systems issues.
 
-5. Escalate to humans as a last resort. Dealing with incidents rapidly and consistently without error is best suited to machines. As such, the system should take actions where it can to resolve problems by itself, and reserve involving the human operations for the edge case as “escalations”, rather than deferring to the human operations team by default.
+5. **Escalate to humans as a last resort.** Dealing with incidents rapidly and consistently without error is best suited to machines. As such, the system should take actions where it can to resolve problems by itself, and reserve involving the human operations for the edge case as “escalations”, rather than deferring to the human operations team by default.
 
 The metrics of HumanOps
 +++++++++++++++++++++++
