@@ -12,6 +12,8 @@ Blog Posts
 - https://blog.serverdensity.com/how-to-write-a-postmortem/
 - https://blog.serverdensity.com/server-monitoring-alerts-war-stories-from-the-ops-trenches/
 - 7 Ways Sleep Affects Your Work: http://www.huffingtonpost.com/2014/09/26/sleep-work_n_5869168.html
+- http://www.fastcompany.com/944128/worker-interrupted-cost-task-switching
+- https://books.google.it/books?id=-WQmCAAAQBAJ&lpg=PP1&ots=bSstJvz_I6&dq=%22Multitasking+in+the+Digital+Age+Synthesis+Lectures+on+Human-Centered+Informatics%22&pg=PA50&redir_esc=y#v=onepage&q&f=false
 
 Other projects
 ==============
