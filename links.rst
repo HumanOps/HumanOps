@@ -1,3 +1,5 @@
+For submissions, fork and add your link here, then issue a pull request.
+
 Blog Posts
 ==========
 
