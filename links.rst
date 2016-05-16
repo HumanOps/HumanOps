@@ -14,6 +14,9 @@ Blog Posts
 - 7 Ways Sleep Affects Your Work: http://www.huffingtonpost.com/2014/09/26/sleep-work_n_5869168.html
 - http://www.fastcompany.com/944128/worker-interrupted-cost-task-switching
 - https://books.google.it/books?id=-WQmCAAAQBAJ&lpg=PP1&ots=bSstJvz_I6&dq=%22Multitasking+in+the+Digital+Age+Synthesis+Lectures+on+Human-Centered+Informatics%22&pg=PA50&redir_esc=y#v=onepage&q&f=false
+- http://devops.com/2015/08/21/well-tech-really-cares/
+- http://devops.com/2015/05/12/communication-blame-misunderstandings/
+- http://devops.com/2015/05/05/social-skills-devops-whose-responsibility/
 
 Other projects
 ==============
