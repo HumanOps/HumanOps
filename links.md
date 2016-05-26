@@ -18,6 +18,7 @@ Blog Posts
 - [Communication: Who is to blame for misunderstandings?](http://devops.com/2015/05/12/communication-blame-misunderstandings/)
 - [Social Skills for DevOps: Whose responsibility?](http://devops.com/2015/05/05/social-skills-devops-whose-responsibility/)
 - [How to Work an On Call Job and Keep Your Sanity](http://lifehacker.com/5983847/how-to-work-an-on-call-job-and-keep-your-sanity)
+- [The Real Reason Technology Destroys Your Attention Span](http://www.inc.com/art-markman/the-real-reason-technology-destroys-your-attention-span-is-timing.html)
 
 Other projects
 ==============
