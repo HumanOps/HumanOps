@@ -18,6 +18,7 @@ Blog Posts
 - [Communication: Who is to blame for misunderstandings?](http://devops.com/2015/05/12/communication-blame-misunderstandings/)
 - [Social Skills for DevOps: Whose responsibility?](http://devops.com/2015/05/05/social-skills-devops-whose-responsibility/)
 - [How to Work an On Call Job and Keep Your Sanity](http://lifehacker.com/5983847/how-to-work-an-on-call-job-and-keep-your-sanity)
+- [Opsweekly: Measuring on-call experience with alert classification](https://codeascraft.com/2014/06/19/opsweekly-measuring-on-call-experience-with-alert-classification/)
 
 Other projects
 ==============
