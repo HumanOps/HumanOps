@@ -8,7 +8,7 @@ The HumanOps Mantra
 6. **Alert Fatigue == Human Fatigue**
 7. **Automate as much as possible, escalate to a human as a last resort.**
 8. **Document everything. Train everyone. Save time.**
-9. **Kill the shame game.**
+9. **Kill the blame/shame game.**
 10. **Human issues are system issues.**
 11. **Human health impacts business health.**
-12. **Humans > systems**
+12. **Humans > systems; humans should control the systems, not the other way around**
