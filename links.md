@@ -21,10 +21,11 @@ Blog Posts
 - [Opsweekly: Measuring on-call experience with alert classification](https://codeascraft.com/2014/06/19/opsweekly-measuring-on-call-experience-with-alert-classification/)
 - [The Real Reason Technology Destroys Your Attention Span](http://www.inc.com/art-markman/the-real-reason-technology-destroys-your-attention-span-is-timing.html)
 - [Dealing with Anxiety in Operations \(slide deck\)](http://www.slideshare.net/jlintz/dealing-with-anxiety-in-operations-velocity-2016)
+- [Fixing On-call, or How to Sleep Through the Night](https://www.usenix.org/system/files/conference/lisa13/lisa13-provost.pdf)
 
 Other projects
 ==============
 
 - http://humanstxt.org/
 - http://www.calmtech.com/ (see also https://en.wikipedia.org/wiki/Calm_technology)
-
+- https://opzzz.sh - Improving on-call with data
