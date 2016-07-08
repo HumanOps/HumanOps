@@ -22,6 +22,8 @@ Blog Posts
 - [The Real Reason Technology Destroys Your Attention Span](http://www.inc.com/art-markman/the-real-reason-technology-destroys-your-attention-span-is-timing.html)
 - [Dealing with Anxiety in Operations \(slide deck\)](http://www.slideshare.net/jlintz/dealing-with-anxiety-in-operations-velocity-2016)
 - [Fixing On-call, or How to Sleep Through the Night](https://www.usenix.org/system/files/conference/lisa13/lisa13-provost.pdf)
+- [The Cloud Book - The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems, Volume 2, Part II Operations: Running It] (http://my.safaribooksonline.com/9780133478549/part02_html)
+- [John Allspaw's blog on Human Factors](http://www.kitchensoap.com/category/human-factors/)
 
 Other projects
 ==============
