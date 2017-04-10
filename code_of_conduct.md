@@ -38,4 +38,5 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 The HumanOps Community Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license. Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects, including but not limited to:
 
 [Contributor Covenant](http://contributor-covenant.org/)
+
 [Elastic Community](https://www.elastic.co/community/codeofconduct)
