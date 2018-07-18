@@ -30,4 +30,3 @@ Other projects
 
 - http://humanstxt.org/
 - http://www.calmtech.com/ (see also https://en.wikipedia.org/wiki/Calm_technology)
-- https://opzzz.sh - Improving on-call with data
