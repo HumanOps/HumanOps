@@ -11,13 +11,13 @@ A selection of articles discussing topics strictly related to HumanOps. For subm
 * [7 Ways Sleep Affects Your Work](https://www.huffingtonpost.com/2014/09/26/sleep-work_n_5869168.html)
 * [Worker, Interrupted: The Cost of Task Switching](https://www.fastcompany.com/944128/worker-interrupted-cost-task-switching)
 * [Multitasking in the Digital Age](https://www.morganclaypool.com/doi/10.2200/S00635ED1V01Y201503HCI029)
-* [Communication: Who is to blame for misunderstandings?](http://devops.com/2015/05/12/communication-blame-misunderstandings/)
-* [How to Work an On Call Job and Keep Your Sanity](http://lifehacker.com/5983847/how-to-work-an-on-call-job-and-keep-your-sanity)
+* [Communication: Who is to blame for misunderstandings?](https://devops.com/2015/05/12/communication-blame-misunderstandings/)
+* [How to Work an On Call Job and Keep Your Sanity](https://lifehacker.com/5983847/how-to-work-an-on-call-job-and-keep-your-sanity)
 * [Opsweekly: Measuring on-call experience with alert classification](https://codeascraft.com/2014/06/19/opsweekly-measuring-on-call-experience-with-alert-classification)
-* [The Real Reason Technology Destroys Your Attention Span](http://www.inc.com/art-markman/the-real-reason-technology-destroys-your-attention-span-is-timing.html)
-* [Dealing with Anxiety in Operations \(slide deck\)](http://www.slideshare.net/jlintz/dealing-with-anxiety-in-operations-velocity-2016)
+* [The Real Reason Technology Destroys Your Attention Span](https://www.inc.com/art-markman/the-real-reason-technology-destroys-your-attention-span-is-timing.html)
+* [Dealing with Anxiety in Operations \(slide deck\)](https://www.slideshare.net/jlintz/dealing-with-anxiety-in-operations-velocity-2016)
 * [Fixing On-call, or How to Sleep Through the Night](https://www.usenix.org/system/files/conference/lisa13/lisa13-provost.pdf)
-* [John Allspaw's blog on Human Factors](http://www.kitchensoap.com/category/human-factors/)
+* [John Allspaw's blog on Human Factors](https://www.kitchensoap.com/category/human-factors/)
 
 
 # Other Projects
