@@ -1,11 +1,7 @@
-HumanOps reading
-================
-A selection of articles discussing topicss strictly related to HumanOps.
-For submissions, fork and add your link here, then issue a pull request.
+# HumanOps Reading
+A selection of articles discussing topics strictly related to HumanOps. For submissions, fork and add your link here, then issue a pull request.
 
-Blog Posts
-==========
-
+# Articles
 - [How and why we use DevOps Checklists](https://blog.serverdensity.com/how-and-why-we-use-devops-checklists/)
 - [How we handle on call schedules](https://blog.serverdensity.com/how-we-handle-on-call-schedules/)
 - [What’s in your on call playbook?](https://blog.serverdensity.com/whats-on-call-playbook/)
@@ -25,8 +21,6 @@ Blog Posts
 - [The Cloud Book - The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems, Volume 2, Part II Operations: Running It] (http://my.safaribooksonline.com/9780133478549/part02_html)
 - [John Allspaw's blog on Human Factors](http://www.kitchensoap.com/category/human-factors/)
 
-Other projects
-==============
-
+# Other Projects
 - http://humanstxt.org/
 - http://www.calmtech.com/ (see also https://en.wikipedia.org/wiki/Calm_technology)
