@@ -18,7 +18,7 @@ We encourage the discussion of ideas & best practices around how to look after t
 1. **Humans build systems. Humans are part of systems.** Well architected, modern systems are as automated & self-managing as possible, but they still require varying degrees of human operation for maintenance, upgrades & incident response. Humans are therefor an integral component of the system & proper consideration should be given to their role.
 1. **Human issues are system issues.** Given humans are part of systems then human problems as a result of system operation should be considered as system problems & solved for just like technical problems.
 1. **Human health is organisation health.** Organisations are made up of people. Organisations need people. If work practises produce unhealthy people then the organisation is unhealthy & this needs fixing.
-1. **Humans need downtime** Unlike systems, humans need sleep & operate very poorly without it.
+1. **Humans need downtime.** Unlike systems, humans need sleep & operate very poorly without it.
 1. **Document. Share knowledge. Save time.** Sharing knowledge makes issues less likely to happen & easier to handle when they do. Reduce person dependency & enable others.
 1. **Reduce noise. Only alert when it really matters.** Alert fatigue is human fatigue.  
 1. **Automate. Escalate to a human as a last resort.** Dealing with incidents rapidly & consistently without error is best suited to machines. The system should take actions where it can to resolve problems by itself & reserve involving the humans for the edge cases as “escalations”, rather than deferring to humans by default.
