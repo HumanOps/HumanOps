@@ -15,7 +15,7 @@ We encourage the discussion of ideas & best practices around how to look after t
 
 
 # Mantra
-1. **Humans build systems. Humans are part of systems.** Well architected, modern systems are as automated & self-managing as possible, but they still requires varying degrees of human operation for maintenance, upgrades & incident response. Humans are therefor an integral component of the system & proper consideration should be given to their role.
+1. **Humans build systems. Humans are part of systems.** Well architected, modern systems are as automated & self-managing as possible, but they still require varying degrees of human operation for maintenance, upgrades & incident response. Humans are therefor an integral component of the system & proper consideration should be given to their role.
 1. **Human issues are system issues.** Given humans are part of systems then human problems as a result of system operation should be considered as system problems & solved for just like technical problems.
 1. **Human health is organisation health.** Organisations are made up of people. Organisations need people. If work practises produce unhealthy people then the organisation is unhealthy & this needs fixing.
 1. **Humans need downtime** Unlike systems, humans need sleep & operate very poorly without it.
@@ -30,14 +30,14 @@ We encourage the discussion of ideas & best practices around how to look after t
 How do we know if we are successfully applying HumanOps principles? Many of the benefits will be qualitative e.g. better work/life balance, but others can be more quantitative:
 
 ## Human
-* Better sleep (achieving sleep length targets, zero interruptions/wakeups)
-* "Reasonable" working hours (not needing to work late, not getting called at weekends)
-* Reduced stress (blood pressure, reduced anxiety)
+* Better sleep (achieving sleep length targets, zero interruptions / wakeups).
+* Reasonable working hours (not needing to work late, not getting called at weekends).
+* Reduced stress (reduced anxiety).
 
 ## System
-* Reduction in outages/incidents with root cause analysis or elements of human error
-* Reduction in time to resolution (due to improved response process & incident handling)
-* Reduction in alerts/incidents requiring human response
+* Reduction in outages / incidents due to human error.
+* Reduction in time to resolution (due to improved response process & incident handling).
+* Reduction in alerts / incidents requiring human response.
 
 
 # HumanOps Resources
